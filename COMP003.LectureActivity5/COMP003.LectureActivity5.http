@@ -1,0 +1,6 @@
+@COMP003.LectureActivity5_HostAddress = http://localhost:5129
+
+GET {{COMP003.LectureActivity5_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

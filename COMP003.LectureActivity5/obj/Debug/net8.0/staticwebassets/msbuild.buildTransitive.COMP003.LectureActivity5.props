@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/COMP003.LectureActivity5.props" />
+</Project>
